@@ -1,6 +1,4 @@
 # bytemon-rpg
-Jogo de terminal feito em Python para praticar lógica, POO e manipulação de arquivos.
-
 **ByteMon** é um jogo de terminal simples, inspirado em RPGs clássicos de batalha por turnos, onde você explora um mundo, enfrenta criaturas digitais e gerencia seu inventário.  
 O projeto está sendo desenvolvido em Python puro e será construído de forma incremental, com melhorias contínuas registradas via commits no GitHub.
 
