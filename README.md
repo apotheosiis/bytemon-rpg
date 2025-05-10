@@ -50,11 +50,11 @@ O ByteMon é parte do meu processo de aprendizagem em **Python e Cibersegurança
 ```
 bytemon/
 ├── main.py               # Loop principal do jogo
-├── jogador.py            # Classe do jogador
-├── monstro.py            # Classe dos monstros ByteMon
-├── batalha.py            # Sistema de batalha
-├── inventario.py         # Gerenciamento de itens
-├── mapa.py               # Sistema de exploração/movimento
+├── player.py            # Classe do jogador
+├── bytemon.py            # Classe dos monstros ByteMon
+├── battle.py            # Sistema de batalha
+├── inventory.py         # Gerenciamento de itens
+├── map.py               # Sistema de exploração/movimento
 ├── login.py              # Cadastro e autenticação de usuários
 ├── save/                 # Arquivos de progresso salvos
 │   └── usuario001.json
