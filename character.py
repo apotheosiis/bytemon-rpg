@@ -15,13 +15,3 @@ class Character:
 
 class Player(Character):
     tipo = "player"
-
-class Enemy(Character):
-    tipo = "enemy"
-
-
-eu = Player(nome="Renamzim")
-print(eu)
-
-meuPokemon = FireBytemon(1,"Rogerim")
-print(meuPokemon)
