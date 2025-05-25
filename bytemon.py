@@ -55,4 +55,5 @@ class Rootbit(LeafBytemon):
     specie = "Rootbit"
     def attack(self, enemy):
         return f"{self} sets a Backdoor Trap under {enemy}! A hidden payload is now ticking..."
+
     
